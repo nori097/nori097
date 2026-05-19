@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nori 👋
 
-<!--
-**nori097/nori097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Cybersecurity & IT Enthusiast
 
-Here are some ideas to get you started:
+## Skills
+- Linux
+- Networking
+- Python
+- Pentesting
+- Basic Web Security
+- Android Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Ethical Hacking
+- Active Directory
+- Web Exploitation
+- SIEM & SOC Fundamentals
+
+## Projects
+- Vulnerability Analysis Labs
+- Linux Hardening
+- Python Security Scripts
+- CTF Writeups
+
+## Certifications Goal
+- CEH Training Completed (Certification Pending)
